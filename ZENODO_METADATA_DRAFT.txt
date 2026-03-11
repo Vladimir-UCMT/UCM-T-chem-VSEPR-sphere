@@ -1,0 +1,31 @@
+Title:
+UCM-T chem / VSEPR sphere v.1: Minimal sphere model for emergent molecular-like geometries
+
+Upload type:
+Publication
+
+Publication type:
+Report
+
+Description:
+This release contains the v.1 article and reproducibility bundle for the UCM-T chem / VSEPR sphere module. The work studies whether familiar molecular-like geometries can emerge from a minimal model on the sphere using only two node types (B and L), repulsive interactions, a sphere constraint, and energy minimization. The bundle includes the paper source and PDF, publication figures, representative JSON outputs, the full N=6 map series used for the soft octahedral summary figure, and the scripts used for generation and postprocessing.
+
+Keywords:
+UCM-T
+VSEPR
+sphere minimization
+molecular geometry
+energy minimization
+icosahedral packing
+geometric degeneracy
+
+Version:
+v.1
+
+Language:
+English
+
+Creators:
+Vladimir Yakovlev
+Notes:
+Compact reproducibility bundle accompanying the v.1 paper.

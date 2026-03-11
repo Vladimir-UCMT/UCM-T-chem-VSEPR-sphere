@@ -1,0 +1,25 @@
+FIGURES
+- figures/n5_reference_final.png
+- figures/n6_phase_map.png
+- figures/n7_ax1e6_shift_final.png
+- figures/n7_ax3e4_deformation_final.png
+- figures/n7_ax5e2_pentagonal_final.png
+- figures/n12_icosahedral_probe_final.png
+
+DATA
+- data/n6_map_summary.csv
+
+PRIMARY SOURCE JSON
+- results/N5_NB2_NL3_a1p300_results_global.json
+- results/N7_NB1_NL6_a1p10_s1_results_global.json
+- results/N7_NB3_NL4_a1p60_s1_results_global.json
+- results/N7_NB5_NL2_a1,10_s1_results_global.json
+- results/PURE_N12_a1p10_s1_results_global.json
+
+MAP SERIES
+- results/MAP_N6_NB2_NL4_*_results_global.json
+
+SCRIPT NOTES
+- viz_points_sphere.py used for sphere figures
+- paper_v1/notes/build_n6_map_summary.py
+- paper_v1/notes/plot_n6_phase_map.py

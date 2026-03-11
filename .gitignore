@@ -1,0 +1,8 @@
+UCM_T_chem_VSEPR_sphere_v1.zip
+__pycache__/
+*.pyc
+*.pyo
+*.tmp
+*.log
+.DS_Store
+Thumbs.db

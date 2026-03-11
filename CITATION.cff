@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "UCM-T chem / VSEPR sphere v.1"
+message: "If you use this repository, please cite the Zenodo release."
+type: software
+authors:
+  - family-names: "UCMT"
+    given-names: "Project"
+doi: 10.5281/zenodo.18924861
+repository-code: "https://github.com/PLACEHOLDER/PLACEHOLDER"
+license: "TBD"
+version: "v1"
