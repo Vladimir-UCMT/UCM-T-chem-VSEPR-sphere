@@ -6,6 +6,5 @@ authors:
   - family-names: "UCMT"
     given-names: "Project"
 doi: 10.5281/zenodo.18924861
-repository-code: "https://github.com/PLACEHOLDER/PLACEHOLDER"
-license: "TBD"
+repository-code: "https://github.com/Vladimir-UCMT/UCM-T-chem-VSEPR-sphere"
 version: "v1"
